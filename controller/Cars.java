@@ -20,7 +20,7 @@ public class Cars {
     }
 
     public static void main(String[] args) {
-        Cars c = new Cars("Bezza", "Perodua", 500000.00);
+        Cars c = new Cars("Bezza", "Perodua", 500000.00); // c is identifiers
         c.displayDetails();
     }
 }
